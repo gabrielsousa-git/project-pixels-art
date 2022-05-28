@@ -4,17 +4,38 @@
 }
 
 #color1{
-    background-color: black;
+    background-color: #000000;
+    height: 70px;
+    width: 70px;
 }
 
 #color2{
-    background-color: aqua;
+    background-color: #00ffff;
+    height: 70px;
+    width: 70px;
 }
 
 #color3{
-    background-color: blueviolet;
+    background-color: #8a2be2;
+    height: 70px;
+    width: 70px;
 }
 
 #color4{
-    background-color: bisque ;
+    background-color: #dc143c ;
+    height: 70px;
+    width: 70px;
+}
+
+#pixel-board{
+    border: solid black 1px;
+    width: 250px;
+}
+
+.pixel{
+    border: solid black 1px;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: #ffffff;
 }
