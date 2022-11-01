@@ -13,3 +13,9 @@ A proposta desse projeto foi a implementação de um editor de arte com pixels e
   * CSS.
 
 </details>
+
+# Preview:
+
+<div align="center" margin="50px">
+	<img src="pixelsArt.png"/>
+</div>
